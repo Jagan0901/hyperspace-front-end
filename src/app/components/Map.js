@@ -1,4 +1,3 @@
-// frontend/components/Map.js
 import React, { useEffect, useState } from "react";
 import mapboxgl from "mapbox-gl";
 import MapboxDraw from "@mapbox/mapbox-gl-draw";
